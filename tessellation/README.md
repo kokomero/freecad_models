@@ -6,7 +6,9 @@ You can check about the software on its website [FreeCAD website](https://www.fr
 
 ## Short description
 
-Designs for planar tesselations
+Designs for planar tesselations:
+
+* I-Tesselations: Include a picture
 
 ## Getting Started
 
