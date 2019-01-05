@@ -8,7 +8,7 @@ These projects are aimed to be printed with 3D printers or CNC wood routers.
 
 ## Short description
 
-* [Tessellations](https://github.com/kokomero/freecad_models/tessellation): Designs for planar tesselations
+* [Tessellations](https://github.com/kokomero/freecad_models/tree/master/tessellation): Designs for planar tesselations
 
 ## Getting Started
 
